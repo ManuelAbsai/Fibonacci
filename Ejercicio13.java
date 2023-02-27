@@ -1,4 +1,4 @@
-/*Escribir un programa que muestre los N primeros tÃ©rminos de la serie de Fibonacci. */
+/*Escribir un programa que muestre los N primeros términos de la serie de Fibonacci. */
 
 import java.util.Scanner; 
 
